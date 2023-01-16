@@ -26,11 +26,17 @@ This is a wiki-style portfolio to which a third party can also add.
 | 2020 | 筑波大学情報メディア創成学類入学 <br> 釣りにハマる <br> コーヒーにハマる                                                                                            |
 | 2021 | 一瞬だけ Nu ink.に入る <br> 東京オリンピックの IT エンジニアという聞こえだけ強そうなバイトをする                                                                    |
 | 2022 | テラリウム製作にハマる <br> キャンパス OJT に足を踏み入れてしまう <br> Digital Nature Group に所属                                                                  |
-| 2032 | 声優アワード助演男優賞受賞                                                                                                                                          |
+| ---- | -----------------                                                                  |
+| 2032 | 声優アワード助演男優賞受賞www                                                                                                                                          |
 | 2034 | 声優アワード主演男優賞受賞                                                                                                                                          |
 
 # Production
+## 2023
 
+- ### デジタルツイン脱出ゲーム
+  並行世界を演出できるVR脱出ゲームと空間型脱出ゲームを合わせたゲーム
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/54Sj24iZxS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 ## 2022
 
 - ### [スズムシンセサイザー](https://www.instagram.com/reel/CkwgpgDD7EY/?utm_source=ig_web_copy_link)
