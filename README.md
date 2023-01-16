@@ -36,7 +36,7 @@ This is a wiki-style portfolio to which a third party can also add.
 - ### デジタルツイン脱出ゲーム
   並行世界を演出できるVR脱出ゲームと空間型脱出ゲームを合わせたゲーム
   
-  [!['デジタルツイン脱出ゲーム']('https://i.ytimg.com/an_webp/54Sj24iZxS0/mqdefault_6s.webp?du=3000&sqp=CIa5kp4G&rs=AOn4CLA8MdVy5HjlND8aX6iM92YqqyoTPw')]('https://www.youtu.be/54Sj24iZxS0')
+  [![デジタルツイン脱出ゲーム](https://img.youtube.com/vi/54Sj24iZxS0/0.jpg)](https://www.youtube.com/watch?v=54Sj24iZxS0)
 
 
 ## 2022
