@@ -35,8 +35,10 @@ This is a wiki-style portfolio to which a third party can also add.
 
 - ### デジタルツイン脱出ゲーム
   並行世界を演出できるVR脱出ゲームと空間型脱出ゲームを合わせたゲーム
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/54Sj24iZxS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
+  [!['デジタルツイン脱出ゲーム']('https://i.ytimg.com/an_webp/54Sj24iZxS0/mqdefault_6s.webp?du=3000&sqp=CIa5kp4G&rs=AOn4CLA8MdVy5HjlND8aX6iM92YqqyoTPw')]('https://www.youtube.com/embed/54Sj24iZxS0')
+
+
 ## 2022
 
 - ### [スズムシンセサイザー](https://www.instagram.com/reel/CkwgpgDD7EY/?utm_source=ig_web_copy_link)
